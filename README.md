@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   # React Portfolio
-  My personal, single-page, portfolio application showcasing my projects.
+  My personal, single-page, portfolio application showcasing my projects. This project was built with React.
   ## Installation
   In the browser, navigate to: https://portfolio-react-six-pink.vercel.app/?vercelToolbarCode=X-OcPrdhQhDP0Ye
   ## Usage
