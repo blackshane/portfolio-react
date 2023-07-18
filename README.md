@@ -2,9 +2,9 @@
   # React Portfolio
   My personal, single-page, portfolio application showcasing my projects.
   ## Installation
-  In the browser, navigate to: 
+  In the browser, navigate to: https://portfolio-react-six-pink.vercel.app/?vercelToolbarCode=X-OcPrdhQhDP0Ye
   ## Usage
-  N/A
+  This application is free to use.
   ## Contributions 
   undefined
   ## Testing
