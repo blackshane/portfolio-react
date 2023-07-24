@@ -16,8 +16,9 @@ export default function Projects() {
         { image: eCommerce, title: 'E-Commerce BackEnd',  gitLink: 'https://github.com/blackshane/e-commerce-back-end', id: 3},
         { image: employee, title: 'Employee Tracker', gitLink: 'https://github.com/blackshane/employee-tracker', id: 4},
         { image: futbolFan, title: 'Futbol Fan App', deployLink: 'https://blackshane.github.io/Futbol-Fan-App/', gitLink: 'https://github.com/blackshane/Futbol-Fan-App', id: 5},
-        { image: weatherApp, title: 'Weather App', deployLink:'https://blackshane.github.io/weather-app/', gitLink: 'https://github.com/blackshane/weather-app', id: 6},
-        { image: dungeon, title: 'Dungeon Finderrz', deployLink: 'https://dungeon-finderrz-e6d696a81520.herokuapp.com/', gitLink: 'https://github.com/WolfSpiderman/DungeonFinderrz', id: 7}
+        { image: dungeon, title: 'Dungeon Finderrz', deployLink: 'https://dungeon-finderrz-e6d696a81520.herokuapp.com/', gitLink: 'https://github.com/WolfSpiderman/DungeonFinderrz', id: 6},
+        { image: weatherApp, title: 'Weather App', deployLink:'https://blackshane.github.io/weather-app/', gitLink: 'https://github.com/blackshane/weather-app', id: 7},
+  
 
 
     ])
