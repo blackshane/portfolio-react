@@ -31,11 +31,11 @@ return (
         <h2>{project.title}</h2>
         <img src={project.image} alt={project.title} />
         <h3>
-          GitHub Repo Link: <a href={project.gitLink}>{project.gitLink}</a>
+          GitHub Repo Link: <a href={project.gitLink}>GitHub Repo Link</a>
         </h3>
         <h3>
           Link to Deployed Application:{' '}
-          <a href={project.deployLink}>{project.deployLink}</a>
+          <a href={project.deployLink}>Link to Deployed Application</a>
         </h3>
       </div>
         ))}
