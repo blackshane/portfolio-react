@@ -42,7 +42,7 @@
 
 body {
   padding: 0;
-  margin: 0;
+  margin: 70px;
 }
 
 @media only screen and (max-width: 1300px) {
